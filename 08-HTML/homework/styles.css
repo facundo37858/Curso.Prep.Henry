@@ -1,0 +1,27 @@
+h1{
+    color: cornflowerblue;
+    font-family: Arial,Black;
+    }
+   h3{
+       color: yellow;
+       font-family: Arial,Black;
+   }
+   img{
+       width: 400px; ;
+   }
+   #thirdDiv{
+       height: 600px;
+       width: 500px;
+       background:black;
+       padding: 50px;
+       border: red;
+       border-width: 5px;
+       border-style: solid;
+
+       
+   }
+   #spanId{
+       font-size: 18px;
+       margin: 50px;
+
+   }
