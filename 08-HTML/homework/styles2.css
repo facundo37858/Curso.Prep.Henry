@@ -1,0 +1,94 @@
+body{
+    background-image: url(https://image.freepik.com/foto-gratis/mar-colorida-puesta-sol-efecto-movimiento-imagen-genial-fondos-pantalla-fondos_181624-12875.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+}
+#miNombre{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    color: rgb(253, 12, 153);
+    font-family: arial,black;
+    font-size: 50px;
+    
+    
+}
+#miEstudios{  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    color: blue;
+    font-family: arial,black;
+    font-size: 20px;
+    
+
+}
+#miYo{    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    color: black;
+    font-family: arial,black;
+    font-size: 20px;
+
+}
+#miExperenciaLaboral{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    color: blue;
+    font-family: arial,black;
+    font-size: 20px;
+}
+#miSkills{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    color: blue;
+    font-family: arial,black;
+    font-size: 20px;
+}
+#miHobbies{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    color: blue;
+    font-family: arial,black;
+    font-size: 20px;
+}
+#porque{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    color: black;
+    font-family: arial,black;
+    font-size: 20px;
+}
+#Titulos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    color: black;
+    font-family: arial,black;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
